@@ -1,13 +1,12 @@
 This program is designed to track the condition of a man-made object. 
 Since monitoring the man-made state of an object is not always possible for various reasons, or is simply difficult, simulation can come to the rescue.
 
-For the program to work correctly, you need to create a database with the format.db or .sqlite, in which you must add two tables:
-1. The first table with the name 
-'Data' , name the first column of this table as 'Epoch' and number this column with numbers
+For the program to work correctly, you need to create a database with the format .db or .sqlite, in which you must add two tables:
+1. The first table with the name 'Данные', name the first column of this table as 'Эпоха' and number this column with numbers
 ascending from 0 to, depending on how many epochs are present in your dimensions. Starting from the second column, the name
 starts from 1 and so on in ascending order, depending on how many measurement points are in your object.
 In addition to the cells in the first column, each cell must contain elevation values obtained using sensors located at control points (values in meters and separated by a dot).
-2. The second table with the name 'Additional Data', it should contain 3 columns with 1 row in the first column you enter the value
+2. The second table with the name 'Дополнительные_данные', it should contain 3 columns with 1 row in the first column you enter the value
 measurement errors (the value is separated by a dot), the second is the number of blocks in your object (an integer), and the third
 is the exponential smoothing value (a value greater than 0 and less than 1 is separated by a dot).
 Exponential smoothing is a mathematical transformation method used in time series forecasting.
