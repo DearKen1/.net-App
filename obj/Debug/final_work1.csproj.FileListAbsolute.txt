@@ -1,0 +1,121 @@
+C:\Users\david\source\repos\final_work1\bin\Debug\final_work1.exe.config
+C:\Users\david\source\repos\final_work1\bin\Debug\final_work1.exe
+C:\Users\david\source\repos\final_work1\bin\Debug\final_work1.pdb
+C:\Users\david\source\repos\final_work1\bin\Debug\EntityFramework.dll
+C:\Users\david\source\repos\final_work1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\david\source\repos\final_work1\bin\Debug\System.Data.SQLite.dll
+C:\Users\david\source\repos\final_work1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\david\source\repos\final_work1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\david\source\repos\final_work1\bin\Debug\EntityFramework.xml
+C:\Users\david\source\repos\final_work1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\david\source\repos\final_work1\bin\Debug\System.Data.SQLite.xml
+C:\Users\david\source\repos\final_work1\obj\Debug\final_work1.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\final_work1\obj\Debug\final_work1.Form1.resources
+C:\Users\david\source\repos\final_work1\obj\Debug\final_work1.Properties.Resources.resources
+C:\Users\david\source\repos\final_work1\obj\Debug\final_work1.csproj.GenerateResource.cache
+C:\Users\david\source\repos\final_work1\obj\Debug\final_work1.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\final_work1\obj\Debug\final_wo.B6F7FD72.Up2Date
+C:\Users\david\source\repos\final_work1\obj\Debug\final_work1.exe
+C:\Users\david\source\repos\final_work1\obj\Debug\final_work1.pdb
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\bin\Debug\final_work1.exe.config
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\bin\Debug\final_work1.exe
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\bin\Debug\final_work1.pdb
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\bin\Debug\EntityFramework.dll
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\bin\Debug\System.Data.SQLite.dll
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\bin\Debug\EntityFramework.xml
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\bin\Debug\System.Data.SQLite.xml
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\obj\Debug\final_work1.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\obj\Debug\final_work1.Form1.resources
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\obj\Debug\final_work1.Properties.Resources.resources
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\obj\Debug\final_work1.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\obj\Debug\final_work1.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\obj\Debug\final_wo.B6F7FD72.Up2Date
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\obj\Debug\final_work1.exe
+C:\Users\david\OneDrive\Рабочий стол\Учеба\2 курс\курсовая\final_work1\obj\Debug\final_work1.pdb
+C:\Users\New\Desktop\final_work1\bin\Debug\final_work1.exe.config
+C:\Users\New\Desktop\final_work1\bin\Debug\final_work1.exe
+C:\Users\New\Desktop\final_work1\bin\Debug\final_work1.pdb
+C:\Users\New\Desktop\final_work1\bin\Debug\EntityFramework.dll
+C:\Users\New\Desktop\final_work1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\New\Desktop\final_work1\bin\Debug\System.Data.SQLite.dll
+C:\Users\New\Desktop\final_work1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\New\Desktop\final_work1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\New\Desktop\final_work1\bin\Debug\EntityFramework.xml
+C:\Users\New\Desktop\final_work1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\New\Desktop\final_work1\bin\Debug\System.Data.SQLite.xml
+C:\Users\New\Desktop\final_work1\obj\Debug\final_work1.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\final_work1\obj\Debug\final_work1.Form1.resources
+C:\Users\New\Desktop\final_work1\obj\Debug\final_work1.Properties.Resources.resources
+C:\Users\New\Desktop\final_work1\obj\Debug\final_work1.csproj.GenerateResource.cache
+C:\Users\New\Desktop\final_work1\obj\Debug\final_work1.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\final_work1\obj\Debug\final_wo.B6F7FD72.Up2Date
+C:\Users\New\Desktop\final_work1\obj\Debug\final_work1.exe
+C:\Users\New\Desktop\final_work1\obj\Debug\final_work1.pdb
+C:\Users\New\Desktop\Модулирование систем\1\bin\Debug\final_work1.exe.config
+C:\Users\New\Desktop\Модулирование систем\1\bin\Debug\final_work1.exe
+C:\Users\New\Desktop\Модулирование систем\1\bin\Debug\final_work1.pdb
+C:\Users\New\Desktop\Модулирование систем\1\bin\Debug\EntityFramework.dll
+C:\Users\New\Desktop\Модулирование систем\1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\New\Desktop\Модулирование систем\1\bin\Debug\System.Data.SQLite.dll
+C:\Users\New\Desktop\Модулирование систем\1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\New\Desktop\Модулирование систем\1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\New\Desktop\Модулирование систем\1\bin\Debug\EntityFramework.xml
+C:\Users\New\Desktop\Модулирование систем\1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\New\Desktop\Модулирование систем\1\bin\Debug\System.Data.SQLite.xml
+C:\Users\New\Desktop\Модулирование систем\1\obj\Debug\final_work1.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\Модулирование систем\1\obj\Debug\final_work1.Form1.resources
+C:\Users\New\Desktop\Модулирование систем\1\obj\Debug\final_work1.Properties.Resources.resources
+C:\Users\New\Desktop\Модулирование систем\1\obj\Debug\final_work1.csproj.GenerateResource.cache
+C:\Users\New\Desktop\Модулирование систем\1\obj\Debug\final_work1.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\Модулирование систем\1\obj\Debug\final_wo.B6F7FD72.Up2Date
+C:\Users\New\Desktop\Модулирование систем\1\obj\Debug\final_work1.exe
+C:\Users\New\Desktop\Модулирование систем\1\obj\Debug\final_work1.pdb
+C:\Users\New\Desktop\Модулирование систем\1\obj\Debug\final_work1.Form2.resources
+C:\Users\student\Desktop\Модулирование систем\1\bin\Debug\final_work1.exe.config
+C:\Users\student\Desktop\Модулирование систем\1\bin\Debug\final_work1.exe
+C:\Users\student\Desktop\Модулирование систем\1\bin\Debug\final_work1.pdb
+C:\Users\student\Desktop\Модулирование систем\1\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\Модулирование систем\1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\Модулирование систем\1\bin\Debug\System.Data.SQLite.dll
+C:\Users\student\Desktop\Модулирование систем\1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\student\Desktop\Модулирование систем\1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\student\Desktop\Модулирование систем\1\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\Модулирование систем\1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\Модулирование систем\1\bin\Debug\System.Data.SQLite.xml
+C:\Users\student\Desktop\Модулирование систем\1\obj\Debug\final_work1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Модулирование систем\1\obj\Debug\final_work1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Модулирование систем\1\obj\Debug\final_work1.Form1.resources
+C:\Users\student\Desktop\Модулирование систем\1\obj\Debug\final_work1.Form2.resources
+C:\Users\student\Desktop\Модулирование систем\1\obj\Debug\final_work1.Properties.Resources.resources
+C:\Users\student\Desktop\Модулирование систем\1\obj\Debug\final_work1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Модулирование систем\1\obj\Debug\final_work1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Модулирование систем\1\obj\Debug\final_work1.csproj.CopyComplete
+C:\Users\student\Desktop\Модулирование систем\1\obj\Debug\final_work1.exe
+C:\Users\student\Desktop\Модулирование систем\1\obj\Debug\final_work1.pdb
+C:\Users\New\Desktop\Модулирование систем\1\obj\Debug\final_work1.Form3.resources
+F:\Модулирование систем\1\bin\Debug\final_work1.exe.config
+F:\Модулирование систем\1\bin\Debug\final_work1.exe
+F:\Модулирование систем\1\bin\Debug\final_work1.pdb
+F:\Модулирование систем\1\bin\Debug\EntityFramework.dll
+F:\Модулирование систем\1\bin\Debug\EntityFramework.SqlServer.dll
+F:\Модулирование систем\1\bin\Debug\System.Data.SQLite.dll
+F:\Модулирование систем\1\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Модулирование систем\1\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Модулирование систем\1\bin\Debug\EntityFramework.xml
+F:\Модулирование систем\1\bin\Debug\EntityFramework.SqlServer.xml
+F:\Модулирование систем\1\bin\Debug\System.Data.SQLite.xml
+F:\Модулирование систем\1\obj\Debug\final_work1.csproj.AssemblyReference.cache
+F:\Модулирование систем\1\obj\Debug\final_work1.exe.config
+F:\Модулирование систем\1\obj\Debug\final_work1.Form1.resources
+F:\Модулирование систем\1\obj\Debug\final_work1.Form2.resources
+F:\Модулирование систем\1\obj\Debug\final_work1.Form3.resources
+F:\Модулирование систем\1\obj\Debug\final_work1.Properties.Resources.resources
+F:\Модулирование систем\1\obj\Debug\final_work1.csproj.GenerateResource.cache
+F:\Модулирование систем\1\obj\Debug\final_work1.csproj.CoreCompileInputs.cache
+F:\Модулирование систем\1\obj\Debug\final_wo.B6F7FD72.Up2Date
+F:\Модулирование систем\1\obj\Debug\final_work1.exe
+F:\Модулирование систем\1\obj\Debug\final_work1.pdb
